@@ -17,6 +17,8 @@ function App() {
         >
           Learn React
         </a>
+	     <h1>Hello DevOps</h1>
+       <h1>Hello wORLD</h1>
       </header>
     </div>
   );
