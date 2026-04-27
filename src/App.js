@@ -20,6 +20,9 @@ function App() {
 	     <h1>Hello DevOps</h1>
        <h1>Hello wwwwww</h1>
        <h1>My DevOps App 🚀</h1>
+       <h1>Hello DevOps</h1>
+       <h1>Hello wwwwww</h1>
+       <h1>My DevOps App 🚀</h1>
       </header>
     </div>
   );
